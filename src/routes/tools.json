@@ -1,4 +1,31 @@
 {
+    "JWT Decoder": {
+        "name": "",
+        "link": "/JWT Decoder",
+        "description": "",
+        "contributors": [
+            {
+                "name": "Fazal",
+                "githubId": "Fazalparkar"
+            },
+            {
+                "name": "Aayush",
+                "githubId": "AayushPaigwar"
+            },
+            {
+                "name": "Jujhar",
+                "githubId": "jujharsingh2802"
+            },
+            {
+                "name": "Kunal",
+                "githubId": "KUNALL0ndhe"
+            },
+            {
+                "name": "Hitesh",
+                "githubId": "Honeykalra22"
+            }
+        ]
+    },
     "add-prefix-suffix": {
         "name": "Add Prefix and Suffix",
         "link": "/add-prefix-suffix",
