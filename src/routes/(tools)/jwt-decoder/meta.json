@@ -1,6 +1,5 @@
 {
-    "name": "",
-    "description":"",
+
     "contributors": [{
         "name": "Fazal",
         "githubId": "Fazalparkar"
@@ -20,4 +19,5 @@
         "name": "Hitesh",
         "githubId": "Honeykalra22"
     }]
+
 }

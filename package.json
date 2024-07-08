@@ -27,6 +27,7 @@
 		"axios": "^1.7.2",
 		"countries-list": "^3.1.0",
 		"downloadjs": "^1.4.7",
+		"jsonwebtoken": "^9.0.2",
 		"jspdf": "^2.5.1",
 		"jwt-decode": "^4.0.0",
 		"pdf-lib": "^1.17.1",
